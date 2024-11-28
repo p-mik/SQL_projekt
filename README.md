@@ -1,5 +1,8 @@
 # SQL_projekt
-Projekt pro akademii Engeto
+Čtvrtý projekt pro akademii Engeto</br></br>
+author: Petr Mikulka</br>
+email: petr.mikulka@gmail.com</br>
+discord: p_mik Mik#7555</br>
 
 <h2>Přiložené soubory</h2>
 <h3>SQL_projekt_primarni_tabulka.sql</h3>
