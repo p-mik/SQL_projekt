@@ -12,7 +12,8 @@ Script na vytvoření sekundární tabulky s podklady</br></br>
 Sloupce - spojení tabulky <strong>countries</strong> a <strong>economies</strong>
 
 <h3>SQL_projekt_vyzkumne_dotazy.sql</h3>
-Osahuje scripty pro vytvoření tabulky obsahující data k zodpovězení daných dotazů
+Osahuje scripty pro vytvoření tabulky obsahující data k zodpovězení daných dotazů</br></br>
+Popisy jednotlivých scriptů jsou uvedeny přímo v SQL souboru
 
 <h3>SQL_projekt_pomocné scripty.sql</h3>
 Soubor pomocných scriptů pro zorientování se v datech
