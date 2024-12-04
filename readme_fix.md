@@ -37,7 +37,7 @@
 </ul>
 
 <h2>Q5: Má výška HDP vliv na změny ve mzdách a cenách potravin?</h2>
-<p><strong>A5:</strong> Zodpovězení této otázky je složitější.</p>
+<p><strong>A5:</strong> Zodpovězení této otázky je složitější. Pro doplnění odpovědi níže jsem do souborů přiložil dva grafy, které jsem na základě dat získaných pomocí dotazu SQL vytvořil v Excelu.</p>
 <ol>
   <li>V období od roku 2007 do roku 2011 se dá říct, že změny mezd i cen věrněji kopírují vývoj HDP, přičemž vývoj cen kopíruje aktuální vývoj HDP a mzdy reagují na změnu HDP až následující rok. Dá se tedy říct, že zatímco růst cen předvídá či kopíruje růst HDP, mzdy na vývoj HDP až následně reagují.</li>
   <li>Od roku 2012 začíná vývoj mezd i cen více oscilovat, zatímco vývoj HDP je stabilnější. Stále však platí, že pokud zrychluje růst HDP, následující rok zrychluje také růst mezd. Naopak zpomalující růst HDP znamená zpomalení růstu mezd v následujícím roce. Vývoj cen ovšem s vývojem HDP v tomto období výrazně nekoreluje.</li>
